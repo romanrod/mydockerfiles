@@ -1,4 +1,4 @@
-
+WIP
 Crear el container a partir del docker file. Posicionado donde se encuentra el archivo Dockerfile, ejecutar la siguiente instrucción:
 
 $ docker build t- curso_cucumber .
